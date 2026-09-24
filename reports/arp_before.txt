@@ -1,0 +1,3 @@
+192.168.222.1 dev eth0 lladdr 00:50:56:c0:00:08 STALE 
+192.168.222.2 dev eth0 lladdr 00:50:56:f6:ad:36 STALE 
+192.168.222.254 dev eth0 lladdr 00:50:56:e3:3a:fa REACHABLE 
